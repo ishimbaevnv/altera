@@ -388,4 +388,4 @@ const AlteraLanding = () => {
   );
 };
 
-export default altera;
+export default AlteraLanding;
